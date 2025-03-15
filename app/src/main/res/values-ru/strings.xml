@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расписание занятий</string>
+    <string name="select">Выберите тему</string>
+    <string name="monday_button_string">Понедельник</string>
+    <string name="tuesday_button_string">Вторник</string>
+    <string name="wednesday_button_string">Среда</string>
+    <string name="thursday_button_string">Четверг</string>
+    <string name="friday_button_string">Пятница</string>
+    <string name="subject_name_string">Имя субъекта</string>
+    <string name="class_start_time_string">Начало занятий</string>
+    <string name="class_end_time_string">Конец урока</string>
+    <string name="classroom_name_string">Название класса</string>
+    <string name="teacher_name_string">Имя профессора</string>
+    <string name="add_subject_button_string">ДОБАВИТЬ ТЕМУ</string>
+    <string name="back_button_string">НАЗАД</string>
+    <string name="teacher_display_string">учитель:</string>
+    <string name="classroom_display_string">класс:</string>
+    <string name="time_display_string">продолжительность:</string>
+    <string name="homework_pick_string">Одомашненный</string>
+    <string name="presentation_pick_string">Презентация</string>
+    <string name="test_pick_string">Тест</string>
+    <string name="oral_exam_pick_string">Отвечаю</string>
+    <string name="other_pick_string">Другой</string>
+    <string name="add_task_button_string">ДОБАВИТЬ ЗАДАЧУ</string>
+    <string name="splash_school_string">Расписание</string>
+    <string name="splash_timetable_string">часы</string>
+    <string name="tasks_display_string">Задания</string>
+    <string name="info_string">Информация</string>
+    <string name="tasks_drawer_string">Задания</string>
+    <string name="photo_string">....</string>
+    <string name="reset_string">Перезагрузить</string>
+    <string name="select_task_string">Выберите задачу</string>
+    <string name="add_task_string">Добавить задачу</string>
+    <string name="notification1">У вас осталось всего 12 часов, чтобы закончить работу!</string>
+    <string name="notification2">Нажмите здесь и проверить его.</string>
+    <string name="nottitle">расписание занятий</string>
+    <string name="task_saved">Задача сохранена.</string>
+    <string name="enter_task">Пожалуйста, введите задачу!</string>
+    <string name="enter_subject">Пожалуйста, введите тему!</string>
+    <string name="enter_correct_time">Введите правильное время</string>
+    <string name="dark_mode">Тёмный режим:</string>
+</resources>

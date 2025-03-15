@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/first">
+        <item android:id="@+id/info"
+            android:title="@string/info_string"
+            android:icon="@drawable/ic_info"/>
+        <item android:id="@+id/tasks"
+            android:title="@string/tasks_drawer_string"
+            android:icon="@drawable/ic_task"/>
+        <item android:id="@+id/photo"
+            android:title="@string/photo_string"
+            android:icon="@drawable/photo_logo"/>
+        <item android:id="@+id/reset"
+            android:title="@string/reset_string"
+            android:icon="@drawable/ic_reset_all"/>
+    </group>
+</menu>

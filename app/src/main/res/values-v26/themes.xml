@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SchoolTimeTable" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/textDarkGray</item>
+        <item name="colorPrimaryVariant">@color/purple_200</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/lightGreen</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Background and surface colors -->
+        <item name="android:colorBackground">@color/white</item>
+        <item name="colorOnBackground">@color/textDarkGray</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/textDarkGray</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/teal_200</item>
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">@color/teal_200</item>
+
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.MaterialComponents.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MaterialComponents.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.MaterialComponents.LargeComponent</item>
+    </style>
+</resources>

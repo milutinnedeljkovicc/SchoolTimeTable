@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orario delle lezioni</string>
+    <string name="select">Scegli un argomento</string>
+    <string name="monday_button_string">Lunedi</string>
+    <string name="tuesday_button_string">Martedì</string>
+    <string name="wednesday_button_string">Mercoledì</string>
+    <string name="thursday_button_string">Giovedì</string>
+    <string name="friday_button_string">Venerdì</string>
+    <string name="subject_name_string">Nome del soggetto</string>
+    <string name="class_start_time_string">Inizio della lezione</string>
+    <string name="class_end_time_string">Fine della lezione</string>
+    <string name="classroom_name_string">Nome dell\'aula</string>
+    <string name="teacher_name_string">Il nome del professore</string>
+    <string name="add_subject_button_string">AGGIUNGI OGGETTO</string>
+    <string name="back_button_string">INDIETRO</string>
+    <string name="teacher_display_string">insegnante:</string>
+    <string name="classroom_display_string">aula:</string>
+    <string name="time_display_string">durata:</string>
+    <string name="homework_pick_string">Domestico</string>
+    <string name="presentation_pick_string">Presentazione</string>
+    <string name="test_pick_string">Test</string>
+    <string name="oral_exam_pick_string">Rispondere</string>
+    <string name="other_pick_string">Altro</string>
+    <string name="add_task_button_string">AGGIUNGI UN\'ATTIVITÀ</string>
+    <string name="splash_school_string">Orario delle</string>
+    <string name="splash_timetable_string">lezioni</string>
+    <string name="tasks_display_string">Compiti</string>
+    <string name="info_string">Informazioni</string>
+    <string name="tasks_drawer_string">Compiti</string>
+    <string name="photo_string">.....</string>
+    <string name="reset_string">Ripristina</string>
+    <string name="select_task_string">Select task</string>
+    <string name="add_task_string">Add task</string>
+    <string name="notification1">Hai solo 12 ore rimaste per finire il tuo lavoro!</string>
+    <string name="notification2">Clicca qui e dai un\'occhiata.</string>
+    <string name="nottitle">orario delle lezioni</string>
+    <string name="task_saved">Compito salvato</string>
+    <string name="enter_task">Inserisci l\'attività!</string>
+    <string name="enter_subject">Per favore inserisci l\'oggetto!</string>
+    <string name="enter_correct_time">Inserisci l\'ora corretta!</string>
+    <string name="dark_mode">Modalità scura:</string>
+</resources>

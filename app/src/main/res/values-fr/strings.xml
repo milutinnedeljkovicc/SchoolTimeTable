@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Horaire de cours</string>
+    <string name="select">Choisissez un sujet</string>
+    <string name="monday_button_string">Lundi</string>
+    <string name="tuesday_button_string">Mardi</string>
+    <string name="wednesday_button_string">Mercredi</string>
+    <string name="thursday_button_string">Jeudi</string>
+    <string name="friday_button_string">Vendredi</string>
+    <string name="subject_name_string">Nom du sujet</string>
+    <string name="class_start_time_string">Début du cours</string>
+    <string name="class_end_time_string">Fin du cours</string>
+    <string name="classroom_name_string">Nom de la classe</string>
+    <string name="teacher_name_string">Nom du professeur</string>
+    <string name="add_subject_button_string">AJOUTER UN SUJET</string>
+    <string name="back_button_string">DOS</string>
+    <string name="teacher_display_string">professeur:</string>
+    <string name="classroom_display_string">Salle de classe:</string>
+    <string name="time_display_string">durée:</string>
+    <string name="homework_pick_string">Devoirs</string>
+    <string name="presentation_pick_string">Présentation</string>
+    <string name="test_pick_string">Test</string>
+    <string name="oral_exam_pick_string">Répondre</string>
+    <string name="other_pick_string">Autre</string>
+    <string name="add_task_button_string">AJOUTER UNE TÂCHE</string>
+    <string name="splash_school_string">Horaire</string>
+    <string name="splash_timetable_string">de cours</string>
+    <string name="tasks_display_string">Tâches</string>
+    <string name="info_string">Info</string>
+    <string name="tasks_drawer_string">Tâches</string>
+    <string name="photo_string">....</string>
+    <string name="reset_string">Réinitialiser</string>
+    <string name="select_task_string">Choisissez une tâche</string>
+    <string name="add_task_string">Ajouter une tâche</string>
+    <string name="notification1">Il ne vous reste que 12 heures pour terminer votre travail !</string>
+    <string name="notification2">Cliquez ici et vérifiez-le.</string>
+    <string name="nottitle">horaire de cours</string>
+    <string name="task_saved">Tâche enregistrée</string>
+    <string name="enter_task">Veuillez saisir la tâche!</string>
+    <string name="enter_subject">Veuillez entrer le sujet!</string>
+    <string name="enter_correct_time">Entrez l\'heure correcte!</string>
+    <string name="dark_mode">Mode sombre:</string>
+</resources>

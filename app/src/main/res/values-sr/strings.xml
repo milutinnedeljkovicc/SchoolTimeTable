@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raspored časova</string>
+    <string name="select">Izaberi predmet</string>
+    <string name="monday_button_string">Ponedeljak</string>
+    <string name="tuesday_button_string">Utorak</string>
+    <string name="wednesday_button_string">Sreda</string>
+    <string name="thursday_button_string">Četvrtak</string>
+    <string name="friday_button_string">Petak</string>
+    <string name="subject_name_string">Ime predmeta</string>
+    <string name="class_start_time_string">Početak časa</string>
+    <string name="class_end_time_string">Završetak časa</string>
+    <string name="classroom_name_string">Naziv učionice</string>
+    <string name="teacher_name_string">Ime profesora</string>
+    <string name="add_subject_button_string">DODAJ PREDMET</string>
+    <string name="back_button_string">NAZAD</string>
+    <string name="teacher_display_string">učitelj/ica:</string>
+    <string name="classroom_display_string">učionica:</string>
+    <string name="time_display_string">trajanje:</string>
+    <string name="homework_pick_string">Domaći</string>
+    <string name="presentation_pick_string">Prezentacija</string>
+    <string name="test_pick_string">Test</string>
+    <string name="oral_exam_pick_string">Odgovaranje</string>
+    <string name="other_pick_string">Ostalo</string>
+    <string name="add_task_button_string">DODAJ ZADATAK</string>
+    <string name="splash_school_string">Raspored</string>
+    <string name="splash_timetable_string">časova</string>
+    <string name="tasks_display_string">Zadaci</string>
+    <string name="info_string">Info</string>
+    <string name="tasks_drawer_string">Zadaci</string>
+    <string name="photo_string">Fotografija</string>
+    <string name="reset_string">Resetuj</string>
+    <string name="select_task_string">Izaberi zadatak</string>
+    <string name="add_task_string">Dodaj zadatak</string>
+    <string name="notification1">Ostalo ti je jos samo 12H da završiš svoj rad!</string>
+    <string name="notification2">Klikni ovde i proveri.</string>
+    <string name="nottitle">raspored časova</string>
+    <string name="task_saved">Zadatak sačuvan</string>
+    <string name="enter_task">Unesi zadatak!</string>
+    <string name="enter_subject">Unesi predmet!</string>
+    <string name="enter_correct_time">Unesi ispravno vreme!</string>
+    <string name="dark_mode">Tamni režim:</string>
+</resources>

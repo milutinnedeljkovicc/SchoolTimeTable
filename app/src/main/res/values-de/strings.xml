@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stundenplan</string>
+    <string name="select">Wählen Sie ein Thema</string>
+    <string name="monday_button_string">Montag</string>
+    <string name="tuesday_button_string">Dienstag</string>
+    <string name="wednesday_button_string">Mittwoch</string>
+    <string name="thursday_button_string">Donnerstag</string>
+    <string name="friday_button_string">Freitag</string>
+    <string name="subject_name_string">Subjekt Name</string>
+    <string name="class_start_time_string">Beginn des Unterrichts</string>
+    <string name="class_end_time_string">Ende des Unterrichts</string>
+    <string name="classroom_name_string">Name des Klassenzimmers</string>
+    <string name="teacher_name_string">Name des Professors</string>
+    <string name="add_subject_button_string">BETREFF HINZUFÜGEN</string>
+    <string name="back_button_string">ZURÜCK</string>
+    <string name="teacher_display_string">Lehrer:</string>
+    <string name="classroom_display_string">Klassenzimmer:</string>
+    <string name="time_display_string">Dauer:</string>
+    <string name="homework_pick_string">Inländisch</string>
+    <string name="presentation_pick_string">Präsentation</string>
+    <string name="test_pick_string">Prüfen</string>
+    <string name="oral_exam_pick_string">Antworten</string>
+    <string name="other_pick_string">Andere</string>
+    <string name="add_task_button_string">EINE AUFGABE HINZUFÜGEN</string>
+    <string name="splash_school_string">Stundenplan</string>
+    <string name="splash_timetable_string"/>
+    <string name="tasks_display_string">Aufgaben</string>
+    <string name="info_string">Info</string>
+    <string name="tasks_drawer_string">Aufgaben</string>
+    <string name="photo_string">.....</string>
+    <string name="reset_string">Zurücksetzen</string>
+    <string name="select_task_string">Wählen Sie eine Aufgabe</string>
+    <string name="add_task_string">Aufgabe hinzufügen</string>
+    <string name="notification1">Sie haben nur noch 12 Stunden Zeit, um Ihre Arbeit zu beenden!</string>
+    <string name="notification2">Klicken Sie hier und probieren Sie es aus.</string>
+    <string name="nottitle">stundenplan</string>
+    <string name="task_saved">Aufgabe gespeichert</string>
+    <string name="enter_task">Bitte Aufgabe eingeben!</string>
+    <string name="enter_subject">Bitte Betreff eingeben!</string>
+    <string name="enter_correct_time">Geben Sie die richtige Zeit ein!</string>
+    <string name="dark_mode">Dunkler Modus:</string>
+</resources>
