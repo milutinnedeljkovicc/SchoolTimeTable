@@ -16,5 +16,6 @@
     <color name="cardBackground">#FF5900</color>
     <color name="teal_700">#018786</color>
     <color name="lightGray">#838383</color>
+    <color name="BackgroundPicker">#101010</color>
 </resources>
 
