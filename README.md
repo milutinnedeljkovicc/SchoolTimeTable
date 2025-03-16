@@ -1,8 +1,8 @@
-# Class Scheduler - Android App
+# School TimeTable - Android Application
 
 ![logoforgit](https://github.com/user-attachments/assets/c37a3031-3337-4022-8097-c3c4a92235ff)
 
-Class Scheduler is an Android application designed to help students and professionals organize their daily schedules, tasks, and classes efficiently. Built with **Java** and **XML**, this app allows users to add subjects, schedule tasks, and organize them by time, ensuring they never miss a class or deadline.
+School TimeTable is an Android application designed to help students and professionals organize their daily schedules, tasks, and classes efficiently. Built with **Java** and **XML**, this app allows users to add subjects, schedule tasks, and organize them by time, ensuring they never miss a class or deadline.
 
 ---
 
@@ -24,3 +24,5 @@ Class Scheduler is an Android application designed to help students and professi
 | **Home Screen** | **Tasks** | **Add Subject** |
 ---
 
+**YOU CAN DOWNLOAD ANDROID APK**
+[HERE](https://drive.google.com/file/d/1c6HKLCCclL_kykmQD39bkd7cj9AJNlUV/view?usp=sharing)
