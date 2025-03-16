@@ -12,6 +12,7 @@ School TimeTable is an Android application designed to help students and profess
 - **Schedule Tasks**: Organize tasks and assignments for each subject.
 - **Time-Based Organization**: View your schedule in a clean, time-based layout.
 - **Notifications**: Get reminders for upcoming classes or tasks.
+- **Translation**: Multiple supported languages used based on the system-selected language.
 - **User-Friendly Interface**: Simple and intuitive design for seamless navigation.
 
 ---
